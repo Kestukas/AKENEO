@@ -1,5 +1,5 @@
 {
-    "name": "Kestukas/AKENEO",
+    "name": "kestukas/akeneo",
     "description": "The \"Akeneo Community Standard Edition\" distribution",
     "license": "OSL-3.0",
     "type": "project",
@@ -21,7 +21,7 @@
         ]
     },
     "require": {
-        "Kestukas/AKENEO": "^5.0.0"
+        "kestukas/akeneo": "^5.0.0"
     },
     "require-dev": {
         "doctrine/doctrine-migrations-bundle": "1.3.2",
