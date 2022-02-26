@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/pim-community-standard",
+    "name": "Kestukas/AKENEO",
     "description": "The \"Akeneo Community Standard Edition\" distribution",
     "license": "OSL-3.0",
     "type": "project",
@@ -21,7 +21,7 @@
         ]
     },
     "require": {
-        "akeneo/pim-community-dev": "^5.0.0"
+        "Kestukas/AKENEO": "^5.0.0"
     },
     "require-dev": {
         "doctrine/doctrine-migrations-bundle": "1.3.2",
