@@ -1,0 +1,5 @@
+trilix_events_api:
+    transport:
+        factory: "pim_events_api.transport_factory.http"
+        options:
+            request_url: "%env(EVENTS_API_REQUEST_URL)%"

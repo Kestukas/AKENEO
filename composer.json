@@ -21,7 +21,9 @@
         ]
     },
     "require": {
-        "akeneo/pim-community-dev": "^5.0.0"
+        "akeneo/pim-community-dev": "^5.0.0",
+        "giedriusdilling/custom-entity-bundle": "dev-main",
+        "trilix/akeneo-events-api-bundle": "^0.7.0"
     },
     "require-dev": {
         "doctrine/doctrine-migrations-bundle": "1.3.2",
@@ -40,5 +42,10 @@
             "bash vendor/akeneo/pim-community-dev/std-build/install-required-files.sh"
         ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        }
+    }
 }

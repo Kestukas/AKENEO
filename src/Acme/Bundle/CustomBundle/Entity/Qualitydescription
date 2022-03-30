@@ -1,0 +1,66 @@
+<?php
+
+namespace Acme\Bundle\CustomBundle\Entity;
+
+use Pim\Bundle\CustomEntityBundle\Entity\AbstractCustomEntity;
+use Pim\Bundle\CustomEntityBundle\Versioning\VersionableInterface;
+
+/**
+ * Acme quality_description entity (used as simple reference data)
+ *
+ */
+class Qualitydescription extends AbstractCustomEntity implements VersionableInterface
+{
+    
+    /** @var string */
+    protected $name;
+    
+    /** @var string */
+    protected $description;
+
+
+    /**
+     * @return string
+     */
+    public function getName()
+    {
+        return $this->name;
+    }
+
+    /**
+     * @param string $name
+     */
+    public function setName($name)
+    {
+        $this->name = $name;
+    }
+
+    /**
+     * @return string
+     */
+    public function getDescription()
+    {
+        return $this->description;
+    }
+
+    /**
+     * @param string $description
+     */
+    public function setDescription($description)
+    {
+        $this->description = $description;
+    }
+
+    /**
+     * {@inheritdoc}
+     */
+    public static function getLabelProperty(): string
+    {
+        return 'name';
+    }
+
+    public function getCustomEntityName(): string
+    {
+        return 'qualitydescription';
+    }
+}

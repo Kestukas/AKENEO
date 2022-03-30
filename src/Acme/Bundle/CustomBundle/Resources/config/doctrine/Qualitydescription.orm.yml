@@ -1,0 +1,23 @@
+Acme\Bundle\CustomBundle\Entity\Qualitydescription:
+    repositoryClass: Pim\Bundle\CustomEntityBundle\Entity\Repository\CustomEntityRepository
+    type: entity
+    table: acme_reference_data_qualitydescription
+    changeTrackingPolicy: DEFERRED_EXPLICIT
+    fields:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+        code:
+            type: string
+            length: 255
+            unique: true
+        sortOrder:
+            type: integer
+        name:
+            type: string
+            length: 255
+        description:
+            type: text      
+    lifecycleCallbacks: {  }

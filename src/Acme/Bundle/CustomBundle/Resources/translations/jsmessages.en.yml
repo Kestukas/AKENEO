@@ -1,0 +1,79 @@
+acme_custom:
+    brand:
+        index_title: "] -Inf, 1] {{ count }} Brand|] 1, Inf [{{ count }} Brands"
+        selected: brands selected
+        field.label:
+            code: Code
+        form:
+            tab.properties.section.common: Common
+            tab.properties.section.label_translations: Labels
+        info:
+            update_successful: Brand successfully updated
+            update_failed: The brand could not be updated
+            field_not_ready: "The brand cannot be saved right now. The following fields are not ready: {{ fields }}"
+
+    color:
+        index_title: "] -Inf, 1] {{ count }} Color|] 1, Inf [{{ count }} Colors"
+        selected: colors selected
+        field:
+            label.code: Code
+            label.name: Name
+            label.hex: Hex code
+            label.red: Red value
+            label.green: Green value
+            label.blue: Blue value
+        info:
+            update_successful: Color successfully updated
+            update_failed: The color could not be updated
+            field_not_ready: "The color cannot be saved right now. The following fields are not ready: {{ fields }}"
+
+    fabric:
+        index_title: "] -Inf, 1] {{ count }} Fabric|] 1, Inf [{{ count }} Fabrics"
+        selected: fabrics selected
+        field.label:
+            code: Code
+            name: Name
+            alternative_name: Alternative name
+            colors: Colors
+        info:
+            update_successful: Fabric successfully updated
+            update_failed: The fabric could not be updated
+            field_not_ready: "The fabric cannot be saved right now. The following fields are not ready: {{ fields }}"
+
+    pictogram:
+        index_title: "] -Inf, 1] {{ count }} Pictogram|] 1, Inf [{{ count }} Pictograms"
+        selected: pictograms selected
+        field.label:
+            code: Code
+        info:
+            update_successful: Pictogram successfully updated
+            update_failed: The pictogram could not be updated
+            field_not_ready: "The pictogram cannot be saved right now. The following fields are not ready: {{ fields }}"
+
+    menu.item.reference_data:
+        color: Color
+        brand: Brand
+        fabric: Fabric
+        pictogram: Pictogram
+
+    acl:
+        brand:
+            index: List Brand
+            create: Create Brand
+            edit: Edit Brand
+            delete: Delete Brand
+        color:
+            index: List Color
+            create: Create Color
+            edit: Edit Color
+            delete: Delete Color
+        fabric:
+            index: List Fabric
+            create: Create Fabric
+            edit: Edit Fabric
+            delete: Delete Fabric
+        pictogram:
+            index: List Pictogram
+            create: Create Pictogram
+            edit: Edit Pictogram
+            delete: Delete Pictogram

@@ -1,0 +1,42 @@
+extensions:
+    pim-qualitydescription-create-modal:
+        module: custom_entity/form/creation/modal
+        config:
+            labels:
+               title: pim_custom_entity.create_popin.title
+               subTitle: acme_custom.menu.item.reference_data.qualitydescription
+            picture: illustrations/User.svg
+            successMessage: pim_custom_entity.message.created
+            editRoute: pim_customentity_rest_get
+            routerKey: code
+            postUrl:
+                route: pim_customentity_rest_create
+                parameters:
+                    customEntityName: qualitydescription
+
+    pim-qualitydescription-create-code:
+        module: pim/form/common/creation/field
+        parent: pim-qualitydescription-create-modal
+        targetZone: fields
+        position: 10
+        config:
+            identifier: code
+            label: acme_custom.qualitydescription.field.label.code
+
+    pim-qualitydescription-create-name:
+        module: pim/form/common/creation/field
+        parent: pim-qualitydescription-create-modal
+        targetZone: fields
+        position: 20
+        config:
+            identifier: name
+            label: acme_custom.qualitydescription.field.label.name
+
+    pim-qualitydescription-create-description:
+        module: pim/form/common/creation/field
+        parent: pim-qualitydescription-create-modal
+        targetZone: fields
+        position: 30
+        config:
+            identifier: description
+            label: acme_custom.qualitydescription.field.label.description

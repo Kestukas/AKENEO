@@ -1,0 +1,1166 @@
+code;name;hex;red;green;blue
+acid-green;Acid Green;#B0BF1A;69;75;10
+aero;Aero;#7CB9E8;49;73;91
+aero-blue;Aero Blue;#C9FFE5;79;100;90
+african-violet;African Violet;#B284BE;70;52;75
+air-force-blue-raf;Air Force Blue (RAF);#5D8AA8;36;54;66
+air-force-blue-usaf;Air Force Blue (USAF);#00308F;0;19;56
+air-superiority-blue;Air Superiority Blue;#72A0C1;45;63;76
+alabama-crimson;Alabama Crimson;#AF002A;69;0;16
+alice-blue;Alice Blue;#F0F8FF;94;97;100
+alizarin-crimson;Alizarin Crimson;#E32636;89;15;21
+alloy-orange;Alloy Orange;#C46210;77;38;6
+almond;Almond;#EFDECD;94;87;80
+amaranth;Amaranth;#E52B50;90;17;31
+amaranth-deep-purple;Amaranth Deep Purple;#AB274F;67;15;31
+amaranth-pink;Amaranth Pink;#F19CBB;95;61;73
+amaranth-purple;Amaranth Purple;#AB274F;67;15;31
+amaranth-red;Amaranth Red;#D3212D;83;13;18
+amazon;Amazon;#3B7A57;23;48;34
+amber;Amber;#FFBF00;100;75;0
+amber-sae-ece;Amber (SAE/ECE);#FF7E00;100;49;0
+american-rose;American Rose;#FF033E;100;1;24
+amethyst;Amethyst;#9966CC;60;40;80
+android-green;Android Green;#A4C639;64;78;22
+anti-flash-white;Anti-Flash White;#F2F3F4;95;95;96
+antique-brass;Antique Brass;#CD9575;80;58;46
+antique-bronze;Antique Bronze;#665D1E;40;36;12
+antique-fuchsia;Antique Fuchsia;#915C83;57;36;51
+antique-ruby;Antique Ruby;#841B2D;52;11;18
+antique-white;Antique White;#FAEBD7;98;92;84
+ao-english;Ao (English);#008000;0;50;0
+apple-green;Apple Green;#8DB600;55;71;0
+apricot;Apricot;#FBCEB1;98;81;69
+aqua;Aqua;#00FFFF;0;100;100
+aquamarine;Aquamarine;#7FFFD4;50;100;83
+arctic-lime;Arctic Lime;#D0FF14;82;100;8
+army-green;Army Green;#4B5320;29;33;13
+arsenic;Arsenic;#3B444B;23;27;29
+artichoke;Artichoke;#8F9779;56;59;47
+arylide-yellow;Arylide Yellow;#E9D66B;91;84;42
+ash-grey;Ash Grey;#B2BEB5;70;75;71
+asparagus;Asparagus;#87A96B;53;66;42
+atomic-tangerine;Atomic Tangerine;#FF9966;100;60;40
+auburn;Auburn;#A52A2A;65;16;16
+aureolin;Aureolin;#FDEE00;99;93;0
+aurometalsaurus;AuroMetalSaurus;#6E7F80;43;50;50
+avocado;Avocado;#568203;34;51;1
+azure;Azure;#007FFF;0;50;100
+azure-web-color;Azure (Web Color);#F0FFFF;94;100;100
+azure-mist;Azure Mist;#F0FFFF;94;100;100
+azureish-white;Azureish White;#DBE9F4;86;91;96
+baby-blue;Baby Blue;#89CFF0;54;81;94
+baby-blue-eyes;Baby Blue Eyes;#A1CAF1;63;79;95
+baby-pink;Baby Pink;#F4C2C2;96;76;76
+baby-powder;Baby Powder;#FEFEFA;100;100;98
+baker-miller-pink;Baker-Miller Pink;#FF91AF;100;57;69
+ball-blue;Ball Blue;#21ABCD;13;67;80
+banana-mania;Banana Mania;#FAE7B5;98;91;71
+banana-yellow;Banana Yellow;#FFE135;100;88;21
+bangladesh-green;Bangladesh Green;#006A4E;0;42;31
+barbie-pink;Barbie Pink;#E0218A;88;13;54
+barn-red;Barn Red;#7C0A02;49;4;1
+battleship-grey;Battleship Grey;#848482;52;52;51
+bazaar;Bazaar;#98777B;60;47;48
+beau-blue;Beau Blue;#BCD4E6;74;83;90
+beaver;Beaver;#9F8170;62;51;44
+beige;Beige;#F5F5DC;96;96;86
+bdazzled-blue;B'dazzled Blue;#2E5894;18;35;58
+big-dip-o’ruby;Big Dip O’ruby;#9C2542;61;15;26
+bisque;Bisque;#FFE4C4;100;89;77
+bistre;Bistre;#3D2B1F;24;17;12
+bistre-brown;Bistre Brown;#967117;59;44;9
+bitter-lemon;Bitter Lemon;#CAE00D;79;88;5
+bitter-lime;Bitter Lime;#BFFF00;75;100;0
+bittersweet;Bittersweet;#FE6F5E;100;44;37
+bittersweet-shimmer;Bittersweet Shimmer;#BF4F51;75;31;32
+black;Black;#000000;0;0;0
+black-bean;Black Bean;#3D0C02;24;5;1
+black-leather-jacket;Black Leather Jacket;#253529;15;21;16
+black-olive;Black Olive;#3B3C36;23;24;21
+blanched-almond;Blanched Almond;#FFEBCD;100;92;80
+blast-off-bronze;Blast-Off Bronze;#A57164;65;44;39
+bleu-de-france;Bleu De France;#318CE7;19;55;91
+blizzard-blue;Blizzard Blue;#ACE5EE;67;90;93
+blond;Blond;#FAF0BE;98;94;75
+blue;Blue;#0000FF;0;0;100
+blue-crayola;Blue (Crayola);#1F75FE;12;46;100
+blue-munsell;Blue (Munsell);#0093AF;0;58;69
+blue-ncs;Blue (NCS);#0087BD;0;53;74
+blue-pantone;Blue (Pantone);#0018A8;0;9;66
+blue-pigment;Blue (Pigment);#333399;20;20;60
+blue-ryb;Blue (RYB);#0247FE;1;28;100
+blue-bell;Blue Bell;#A2A2D0;64;64;82
+blue-gray;Blue-Gray;#6699CC;40;60;80
+blue-green;Blue-Green;#0D98BA;5;60;73
+blue-lagoon;Blue Lagoon;#5E93A1;37;58;63
+blue-magenta-violet;Blue-Magenta Violet;#553592;33;21;57
+blue-sapphire;Blue Sapphire;#126180;7;38;50
+blue-violet;Blue-Violet;#8A2BE2;54;17;89
+blue-yonder;Blue Yonder;#5072A7;31;45;65
+blueberry;Blueberry;#4F86F7;31;53;97
+bluebonnet;Bluebonnet;#1C1CF0;11;11;94
+blush;Blush;#DE5D83;87;36;51
+bole;Bole;#79443B;47;27;23
+bondi-blue;Bondi Blue;#0095B6;0;58;71
+bone;Bone;#E3DAC9;89;85;79
+boston-university-red;Boston University Red;#CC0000;80;0;0
+bottle-green;Bottle Green;#006A4E;0;42;31
+boysenberry;Boysenberry;#873260;53;20;38
+brandeis-blue;Brandeis Blue;#0070FF;0;44;100
+brass;Brass;#B5A642;71;65;26
+brick-red;Brick Red;#CB4154;80;25;33
+bright-cerulean;Bright Cerulean;#1DACD6;11;67;84
+bright-green;Bright Green;#66FF00;40;100;0
+bright-lavender;Bright Lavender;#BF94E4;75;58;89
+bright-lilac;Bright Lilac;#D891EF;85;57;94
+bright-maroon;Bright Maroon;#C32148;76;13;28
+bright-navy-blue;Bright Navy Blue;#1974D2;10;45;82
+bright-pink;Bright Pink;#FF007F;100;0;50
+bright-turquoise;Bright Turquoise;#08E8DE;3;91;87
+bright-ube;Bright Ube;#D19FE8;82;62;91
+brilliant-azure;Brilliant Azure;#3399FF;20;60;100
+brilliant-lavender;Brilliant Lavender;#F4BBFF;96;73;100
+brilliant-rose;Brilliant Rose;#FF55A3;100;33;64
+brink-pink;Brink Pink;#FB607F;98;38;50
+british-racing-green;British Racing Green;#004225;0;26;15
+bronze;Bronze;#CD7F32;80;50;20
+bronze-yellow;Bronze Yellow;#737000;45;44;0
+brown-traditional;Brown (Traditional);#964B00;59;29;0
+brown-web;Brown (Web);#A52A2A;65;16;16
+brown-nose;Brown-Nose;#6B4423;42;27;14
+brown-yellow;Brown Yellow;#cc9966;80;60;40
+brunswick-green;Brunswick Green;#1B4D3E;11;30;24
+bubble-gum;Bubble Gum;#FFC1CC;100;76;80
+bubbles;Bubbles;#E7FEFF;91;100;100
+buff;Buff;#F0DC82;94;86;51
+bud-green;Bud Green;#7BB661;48;71;38
+bulgarian-rose;Bulgarian Rose;#480607;28;2;3
+burgundy;Burgundy;#800020;50;0;13
+burlywood;Burlywood;#DEB887;87;72;53
+burnt-orange;Burnt Orange;#CC5500;80;33;0
+burnt-sienna;Burnt Sienna;#E97451;91;45;32
+burnt-umber;Burnt Umber;#8A3324;54;20;14
+byzantine;Byzantine;#BD33A4;74;20;64
+byzantium;Byzantium;#702963;44;16;39
+cadet;Cadet;#536872;33;41;45
+cadet-blue;Cadet Blue;#5F9EA0;37;62;63
+cadet-grey;Cadet Grey;#91A3B0;57;64;69
+cadmium-green;Cadmium Green;#006B3C;0;42;24
+cadmium-orange;Cadmium Orange;#ED872D;93;53;18
+cadmium-red;Cadmium Red;#E30022;89;0;13
+cadmium-yellow;Cadmium Yellow;#FFF600;100;96;0
+café-au-lait;Café Au Lait;#A67B5B;65;48;36
+café-noir;Café Noir;#4B3621;29;21;13
+cal-poly-green;Cal Poly Green;#1E4D2B;12;30;17
+cambridge-blue;Cambridge Blue;#A3C1AD;64;76;68
+camel;Camel;#C19A6B;76;60;42
+cameo-pink;Cameo Pink;#EFBBCC;94;73;80
+camouflage-green;Camouflage Green;#78866B;47;53;42
+canary-yellow;Canary Yellow;#FFEF00;100;94;0
+candy-apple-red;Candy Apple Red;#FF0800;100;3;0
+candy-pink;Candy Pink;#E4717A;89;44;48
+capri;Capri;#00BFFF;0;75;100
+caput-mortuum;Caput Mortuum;#592720;35;15;13
+cardinal;Cardinal;#C41E3A;77;12;23
+caribbean-green;Caribbean Green;#00CC99;0;80;60
+carmine;Carmine;#960018;59;0;9
+carmine-m&p;Carmine (M&P);#D70040;84;0;25
+carmine-pink;Carmine Pink;#EB4C42;92;30;26
+carmine-red;Carmine Red;#FF0038;100;0;22
+carnation-pink;Carnation Pink;#FFA6C9;100;65;79
+carnelian;Carnelian;#B31B1B;70;11;11
+carolina-blue;Carolina Blue;#56A0D3;34;63;83
+carrot-orange;Carrot Orange;#ED9121;93;57;13
+castleton-green;Castleton Green;#00563F;0;34;25
+catalina-blue;Catalina Blue;#062A78;2;16;47
+catawba;Catawba;#703642;44;21;26
+cedar-chest;Cedar Chest;#C95A49;79;35;29
+ceil;Ceil;#92A1CF;57;63;81
+celadon;Celadon;#ACE1AF;67;88;69
+celadon-blue;Celadon Blue;#007BA7;0;48;65
+celadon-green;Celadon Green;#2F847C;18;52;49
+celeste;Celeste;#B2FFFF;70;100;100
+celestial-blue;Celestial Blue;#4997D0;29;59;82
+cerise;Cerise;#DE3163;87;19;39
+cerise-pink;Cerise Pink;#EC3B83;93;23;51
+cerulean;Cerulean;#007BA7;0;48;65
+cerulean-blue;Cerulean Blue;#2A52BE;16;32;75
+cerulean-frost;Cerulean Frost;#6D9BC3;43;61;76
+cg-blue;CG Blue;#007AA5;0;48;65
+cg-red;CG Red;#E03C31;88;24;19
+chamoisee;Chamoisee;#A0785A;63;47;35
+champagne;Champagne;#F7E7CE;97;91;81
+charcoal;Charcoal;#36454F;21;27;31
+charleston-green;Charleston Green;#232B2B;14;17;17
+charm-pink;Charm Pink;#E68FAC;90;56;67
+chartreuse-traditional;Chartreuse (Traditional);#DFFF00;87;100;0
+chartreuse-web;Chartreuse (Web);#7FFF00;50;100;0
+cherry;Cherry;#DE3163;87;19;39
+cherry-blossom-pink;Cherry Blossom Pink;#FFB7C5;100;72;77
+chestnut;Chestnut;#954535;58;27;21
+china-pink;China Pink;#DE6FA1;87;44;63
+china-rose;China Rose;#A8516E;66;32;43
+chinese-red;Chinese Red;#AA381E;67;22;12
+chinese-violet;Chinese Violet;#856088;52;38;53
+chocolate-traditional;Chocolate (Traditional);#7B3F00;48;25;0
+chocolate-web;Chocolate (Web);#D2691E;82;41;12
+chrome-yellow;Chrome Yellow;#FFA700;100;65;0
+cinereous;Cinereous;#98817B;60;51;48
+cinnabar;Cinnabar;#E34234;89;26;20
+cinnamon;Cinnamon[Citation Needed];#D2691E;82;41;12
+citrine;Citrine;#E4D00A;89;82;4
+citron;Citron;#9FA91F;62;66;12
+claret;Claret;#7F1734;50;9;20
+classic-rose;Classic Rose;#FBCCE7;98;80;91
+cobalt-blue;Cobalt Blue;#0047AB;0;28;67
+cocoa-brown;Cocoa Brown;#D2691E;82;41;12
+coconut;Coconut;#965A3E;59;35;24
+coffee;Coffee;#6F4E37;44;31;22
+columbia-blue;Columbia Blue;#C4D8E2;77;85;89
+congo-pink;Congo Pink;#F88379;97;51;47
+cool-black;Cool Black;#002E63;0;18;39
+cool-grey;Cool Grey;#8C92AC;55;57;67
+copper;Copper;#B87333;72;45;20
+copper-crayola;Copper (Crayola);#DA8A67;85;54;40
+copper-penny;Copper Penny;#AD6F69;68;44;41
+copper-red;Copper Red;#CB6D51;80;43;32
+copper-rose;Copper Rose;#996666;60;40;40
+coquelicot;Coquelicot;#FF3800;100;22;0
+coral;Coral;#FF7F50;100;50;31
+coral-pink;Coral Pink;#F88379;97;51;47
+coral-red;Coral Red;#FF4040;100;25;25
+cordovan;Cordovan;#893F45;54;25;27
+corn;Corn;#FBEC5D;98;93;36
+cornell-red;Cornell Red;#B31B1B;70;11;11
+cornflower-blue;Cornflower Blue;#6495ED;39;58;93
+cornsilk;Cornsilk;#FFF8DC;100;97;86
+cosmic-latte;Cosmic Latte;#FFF8E7;100;97;91
+coyote-brown;Coyote Brown;#81613e;51;38;24
+cotton-candy;Cotton Candy;#FFBCD9;100;74;85
+cream;Cream;#FFFDD0;100;99;82
+crimson;Crimson;#DC143C;86;8;24
+crimson-glory;Crimson Glory;#BE0032;75;0;20
+crimson-red;Crimson Red;#990000;60;0;0
+cyan;Cyan;#00FFFF;0;100;100
+cyan-azure;Cyan Azure;#4E82b4;31;51;71
+cyan-blue-azure;Cyan-Blue Azure;#4682BF;27;51;75
+cyan-cobalt-blue;Cyan Cobalt Blue;#28589C;16;35;61
+cyan-cornflower-blue;Cyan Cornflower Blue;#188BC2;9;55;76
+cyan-process;Cyan (Process);#00B7EB;0;72;92
+cyber-grape;Cyber Grape;#58427C;35;26;49
+cyber-yellow;Cyber Yellow;#FFD300;100;83;0
+daffodil;Daffodil;#FFFF31;100;100;19
+dandelion;Dandelion;#F0E130;94;88;19
+dark-blue;Dark Blue;#00008B;0;0;55
+dark-blue-gray;Dark Blue-Gray;#666699;40;40;60
+dark-brown;Dark Brown;#654321;40;26;13
+dark-brown-tangelo;Dark Brown-Tangelo;#88654E;53;40;31
+dark-byzantium;Dark Byzantium;#5D3954;36;22;33
+dark-candy-apple-red;Dark Candy Apple Red;#A40000;64;0;0
+dark-cerulean;Dark Cerulean;#08457E;3;27;49
+dark-chestnut;Dark Chestnut;#986960;60;41;38
+dark-coral;Dark Coral;#CD5B45;80;36;27
+dark-cyan;Dark Cyan;#008B8B;0;55;55
+dark-electric-blue;Dark Electric Blue;#536878;33;41;47
+dark-goldenrod;Dark Goldenrod;#B8860B;72;53;4
+dark-gray-x11;Dark Gray (X11);#A9A9A9;66;66;66
+dark-green;Dark Green;#013220;0;20;13
+dark-green-x11;Dark Green (X11);#006400;0;39;0
+dark-gunmetal;Dark Gunmetal;#006400;12;15;16
+dark-imperial-blue;Dark Imperial Blue;#00416A;0;25;42
+dark-jungle-green;Dark Jungle Green;#1A2421;10;14;13
+dark-khaki;Dark Khaki;#BDB76B;74;72;42
+dark-lava;Dark Lava;#483C32;28;24;20
+dark-lavender;Dark Lavender;#734F96;45;31;59
+dark-liver;Dark Liver;#534B4F;33;29;31
+dark-liver-horses;Dark Liver (Horses);#543D37;33;24;22
+dark-magenta;Dark Magenta;#8B008B;55;0;55
+dark-medium-gray;Dark Medium Gray;#A9A9A9;66;66;66
+dark-midnight-blue;Dark Midnight Blue;#003366;0;20;40
+dark-moss-green;Dark Moss Green;#4A5D23;29;36;14
+dark-olive-green;Dark Olive Green;#556B2F;33;42;18
+dark-orange;Dark Orange;#FF8C00;100;55;0
+dark-orchid;Dark Orchid;#9932CC;60;20;80
+dark-pastel-blue;Dark Pastel Blue;#779ECB;47;62;80
+dark-pastel-green;Dark Pastel Green;#03C03C;1;75;24
+dark-pastel-purple;Dark Pastel Purple;#966FD6;59;44;84
+dark-pastel-red;Dark Pastel Red;#C23B22;76;23;13
+dark-pink;Dark Pink;#E75480;91;33;50
+dark-powder-blue;Dark Powder Blue;#003399;0;20;60
+dark-puce;Dark Puce;#4F3A3C;31;23;24
+dark-purple;Dark Purple;#301934;19;10;20
+dark-raspberry;Dark Raspberry;#872657;53;15;34
+dark-red;Dark Red;#8B0000;55;0;0
+dark-salmon;Dark Salmon;#E9967A;91;59;48
+dark-scarlet;Dark Scarlet;#560319;34;1;10
+dark-sea-green;Dark Sea Green;#8FBC8F;56;74;56
+dark-sienna;Dark Sienna;#3C1414;24;8;8
+dark-sky-blue;Dark Sky Blue;#8CBED6;55;75;84
+dark-slate-blue;Dark Slate Blue;#483D8B;28;24;55
+dark-slate-gray;Dark Slate Gray;#2F4F4F;18;31;31
+dark-spring-green;Dark Spring Green;#177245;9;45;27
+dark-tan;Dark Tan;#918151;57;51;32
+dark-tangerine;Dark Tangerine;#FFA812;100;66;7
+dark-taupe;Dark Taupe;#483C32;28;24;20
+dark-terra-cotta;Dark Terra Cotta;#CC4E5C;80;31;36
+dark-turquoise;Dark Turquoise;#00CED1;0;81;82
+dark-vanilla;Dark Vanilla;#D1BEA8;82;75;66
+dark-violet;Dark Violet;#9400D3;58;0;83
+dark-yellow;Dark Yellow;#9B870C;61;53;5
+dartmouth-green;Dartmouth Green;#00703C;0;44;24
+davys-grey;Davy's Grey;#555555;33;33;33
+debian-red;Debian Red;#D70A53;84;4;33
+deep-aquamarine;Deep Aquamarine;#40826D;25;51;43
+deep-carmine;Deep Carmine;#A9203E;66;13;24
+deep-carmine-pink;Deep Carmine Pink;#EF3038;94;19;22
+deep-carrot-orange;Deep Carrot Orange;#E9692C;91;41;17
+deep-cerise;Deep Cerise;#DA3287;85;20;53
+deep-champagne;Deep Champagne;#FAD6A5;98;84;65
+deep-chestnut;Deep Chestnut;#B94E48;73;31;28
+deep-coffee;Deep Coffee;#704241;44;26;25
+deep-fuchsia;Deep Fuchsia;#C154C1;76;33;76
+deep-green;Deep Green;#056608;2;40;3
+deep-green-cyan-turquoise;Deep Green-Cyan Turquoise;#0E7C61;5;49;38
+deep-jungle-green;Deep Jungle Green;#004B49;0;29;29
+deep-koamaru;Deep Koamaru;#333366;20;20;40
+deep-lemon;Deep Lemon;#F5C71A;96;78;10
+deep-lilac;Deep Lilac;#9955BB;60;33;73
+deep-magenta;Deep Magenta;#CC00CC;80;0;80
+deep-maroon;Deep Maroon;#820000;51;0;0
+deep-mauve;Deep Mauve;#D473D4;83;45;83
+deep-moss-green;Deep Moss Green;#355E3B;21;37;23
+deep-peach;Deep Peach;#FFCBA4;100;80;64
+deep-pink;Deep Pink;#FF1493;100;8;58
+deep-puce;Deep Puce;#A95C68;66;36;41
+deep-red;Deep Red;#850101;52;0;0
+deep-ruby;Deep Ruby;#843F5B;52;25;36
+deep-saffron;Deep Saffron;#FF9933;100;60;20
+deep-sky-blue;Deep Sky Blue;#00BFFF;0;75;100
+deep-space-sparkle;Deep Space Sparkle;#4A646C;29;39;42
+deep-spring-bud;Deep Spring Bud;#556B2F;33;42;18
+deep-taupe;Deep Taupe;#7E5E60;49;37;38
+deep-tuscan-red;Deep Tuscan Red;#66424D;40;26;30
+deep-violet;Deep Violet;#330066;20;0;40
+deer;Deer;#BA8759;73;53;35
+denim;Denim;#1560BD;8;38;74
+desaturated-cyan;Desaturated Cyan;#669999;40;60;60
+desert;Desert;#C19A6B;76;60;42
+desert-sand;Desert Sand;#EDC9AF;93;79;69
+desire;Desire;#EA3C53;92;24;33
+diamond;Diamond;#B9F2FF;73;95;100
+dim-gray;Dim Gray;#696969;41;41;41
+dirt;Dirt;#9B7653;61;46;33
+dodger-blue;Dodger Blue;#1E90FF;12;56;100
+dogwood-rose;Dogwood Rose;#D71868;84;9;41
+dollar-bill;Dollar Bill;#85BB65;52;73;40
+donkey-brown;Donkey Brown;#664C28;40;30;16
+drab;Drab;#967117;59;44;9
+duke-blue;Duke Blue;#00009C;0;0;61
+dust-storm;Dust Storm;#E5CCC9;90;80;79
+dutch-white;Dutch White;#EFDFBB;94;87;73
+earth-yellow;Earth Yellow;#E1A95F;88;66;37
+ebony;Ebony;#555D50;33;36;31
+ecru;Ecru;#C2B280;76;70;50
+eerie-black;Eerie Black;#1B1B1B;11;11;11
+eggplant;Eggplant;#614051;38;25;32
+eggshell;Eggshell;#F0EAD6;94;92;84
+egyptian-blue;Egyptian Blue;#1034A6;6;20;65
+electric-blue;Electric Blue;#7DF9FF;49;98;100
+electric-crimson;Electric Crimson;#FF003F;100;0;25
+electric-cyan;Electric Cyan;#00FFFF;0;100;100
+electric-green;Electric Green;#00FF00;0;100;0
+electric-indigo;Electric Indigo;#6F00FF;44;0;100
+electric-lavender;Electric Lavender;#F4BBFF;96;73;100
+electric-lime;Electric Lime;#CCFF00;80;100;0
+electric-purple;Electric Purple;#BF00FF;75;0;100
+electric-ultramarine;Electric Ultramarine;#3F00FF;25;0;100
+electric-violet;Electric Violet;#8F00FF;56;0;100
+electric-yellow;Electric Yellow;#FFFF33;100;100;20
+emerald;Emerald;#50C878;31;78;47
+eminence;Eminence;#6C3082;42;19;51
+english-green;English Green;#1B4D3E;11;30;24
+english-lavender;English Lavender;#B48395;71;51;58
+english-red;English Red;#AB4B52;67;29;32
+english-violet;English Violet;#563C5C;34;24;36
+eton-blue;Eton Blue;#96C8A2;59;78;64
+eucalyptus;Eucalyptus;#44D7A8;27;84;66
+fallow;Fallow;#C19A6B;76;60;42
+falu-red;Falu Red;#801818;50;9;9
+fandango;Fandango;#B53389;71;20;54
+fandango-pink;Fandango Pink;#DE5285;87;32;52
+fashion-fuchsia;Fashion Fuchsia;#F400A1;96;0;63
+fawn;Fawn;#E5AA70;90;67;44
+feldgrau;Feldgrau;#4D5D53;30;36;33
+feldspar;Feldspar;#FDD5B1;99;84;69
+fern-green;Fern Green;#4F7942;31;47;26
+ferrari-red;Ferrari Red;#FF2800;100;16;0
+field-drab;Field Drab;#6C541E;42;33;12
+firebrick;Firebrick;#B22222;70;13;13
+fire-engine-red;Fire Engine Red;#CE2029;81;13;16
+flame;Flame;#E25822;89;35;13
+flamingo-pink;Flamingo Pink;#FC8EAC;99;56;67
+flattery;Flattery;#6B4423;42;27;14
+flavescent;Flavescent;#F7E98E;97;91;56
+flax;Flax;#EEDC82;93;86;51
+flirt;Flirt;#A2006D;64;0;43
+floral-white;Floral White;#FFFAF0;100;98;94
+fluorescent-orange;Fluorescent Orange;#FFBF00;100;75;0
+fluorescent-pink;Fluorescent Pink;#FF1493;100;8;58
+fluorescent-yellow;Fluorescent Yellow;#CCFF00;80;100;0
+folly;Folly;#FF004F;100;0;31
+forest-green-traditional;Forest Green (Traditional);#014421;0;27;13
+forest-green-web;Forest Green (Web);#228B22;13;55;13
+french-beige;French Beige;#A67B5B;65;48;36
+french-bistre;French Bistre;#856D4D;52;43;30
+french-blue;French Blue;#0072BB;0;45;73
+french-fuchsia;French Fuchsia;#FD3F92;99;25;57
+french-lilac;French Lilac;#86608E;53;38;56
+french-lime;French Lime;#9EFD38;62;99;22
+french-mauve;French Mauve;#D473D4;83;45;83
+french-pink;French Pink;#FD6C9E;99;42;62
+french-plum;French Plum;#811453;51;8;33
+french-puce;French Puce;#4E1609;31;9;4
+french-raspberry;French Raspberry;#C72C48;78;17;28
+french-rose;French Rose;#F64A8A;96;29;54
+french-sky-blue;French Sky Blue;#77B5FE;47;71;100
+french-violet;French Violet;#8806CE;53;2;81
+french-wine;French Wine;#AC1E44;67;12;27
+fresh-air;Fresh Air;#A6E7FF;65;91;100
+fuchsia;Fuchsia;#FF00FF;100;0;100
+fuchsia-crayola;Fuchsia (Crayola);#C154C1;76;33;76
+fuchsia-pink;Fuchsia Pink;#FF77FF;100;47;100
+fuchsia-purple;Fuchsia Purple;#CC397B;80;22;48
+fuchsia-rose;Fuchsia Rose;#C74375;78;26;46
+fulvous;Fulvous;#E48400;89;52;0
+fuzzy-wuzzy;Fuzzy Wuzzy;#CC6666;80;40;40
+gainsboro;Gainsboro;#DCDCDC;86;86;86
+gamboge;Gamboge;#E49B0F;89;61;6
+gamboge-orange-brown;Gamboge Orange (Brown);#996600;60;40;0
+generic-viridian;Generic Viridian;#007F66;0;50;40
+ghost-white;Ghost White;#F8F8FF;97;97;100
+giants-orange;Giants Orange;#FE5A1D;100;35;11
+glaucous;Glaucous;#6082B6;38;51;71
+glitter;Glitter;#E6E8FA;90;91;98
+go-green;GO Green;#00AB66;0;67;40
+gold-metallic;Gold (Metallic);#D4AF37;83;69;22
+gold-web-golden;Gold (Web) (Golden);#FFD700;100;84;0
+gold-fusion;Gold Fusion;#85754E;52;46;31
+golden-brown;Golden Brown;#996515;60;40;8
+golden-poppy;Golden Poppy;#FCC200;99;76;0
+golden-yellow;Golden Yellow;#FFDF00;100;87;0
+goldenrod;Goldenrod;#DAA520;85;65;13
+granny-smith-apple;Granny Smith Apple;#A8E4A0;66;89;63
+grape;Grape;#6F2DA8;44;18;66
+grussrel;Grussrel;#B06500;69;40;0
+gray;Gray;#808080;50;50;50
+gray-html-css-gray;Gray (HTML/CSS Gray);#808080;50;50;50
+gray-x11-gray;Gray (X11 Gray);#BEBEBE;75;75;75
+gray-asparagus;Gray-Asparagus;#465945;27;35;27
+gray-blue;Gray-Blue;#8C92AC;55;57;67
+green-color-wheel-x11-green;Green (Color Wheel) (X11 Green);#00FF00;0;100;0
+green-crayola;Green (Crayola);#1CAC78;11;67;47
+green-html-css-color;Green (HTML/CSS Color);#008000;0;50;0
+green-munsell;Green (Munsell);#00A877;0;66;47
+green-ncs;Green (NCS);#009F6B;0;62;42
+green-pantone;Green (Pantone);#00AD43;0;68;26
+green-pigment;Green (Pigment);#00A550;0;65;31
+green-ryb;Green (RYB);#66B032;40;69;20
+green-blue;Green-Blue;#1164B4;7;39;71
+green-cyan;Green-Cyan;#009966;0;60;40
+green-yellow;Green-Yellow;#ADFF2F;68;100;18
+grizzly;Grizzly;#885818;53;35;9
+grullo;Grullo;#A99A86;66;60;53
+guppie-green;Guppie Green;#00FF7F;0;100;50
+gunmetal;Gunmetal;#2a3439;16;20;22
+halayà-Úbe;Halayà Úbe;#663854;40;22;33
+han-blue;Han Blue;#446CCF;27;42;81
+han-purple;Han Purple;#5218FA;32;9;98
+hansa-yellow;Hansa Yellow;#E9D66B;91;84;42
+harlequin;Harlequin;#3FFF00;25;100;0
+harlequin-green;Harlequin Green;#46CB18;27;80;9
+harvard-crimson;Harvard Crimson;#C90016;79;0;9
+harvest-gold;Harvest Gold;#DA9100;85;57;0
+heart-gold;Heart Gold;#808000;50;50;0
+heliotrope;Heliotrope;#DF73FF;87;45;100
+heliotrope-gray;Heliotrope Gray;#AA98A9;67;60;66
+heliotrope-magenta;Heliotrope Magenta;#AA00BB;67;0;73
+hollywood-cerise;Hollywood Cerise;#F400A1;96;0;63
+honeydew;Honeydew;#F0FFF0;94;100;94
+honolulu-blue;Honolulu Blue;#006DB0;0;43;69
+hookers-green;Hooker's Green;#49796B;29;47;42
+hot-magenta;Hot Magenta;#FF1DCE;100;11;81
+hot-pink;Hot Pink;#FF69B4;100;41;71
+hunter-green;Hunter Green;#355E3B;21;37;23
+iceberg;Iceberg;#71A6D2;44;65;82
+icterine;Icterine;#FCF75E;99;97;37
+illuminating-emerald;Illuminating Emerald;#319177;19;57;47
+imperial;Imperial;#602F6B;38;18;42
+imperial-blue;Imperial Blue;#002395;0;14;58
+imperial-purple;Imperial Purple;#66023C;40;1;24
+imperial-red;Imperial Red;#ED2939;93;16;22
+inchworm;Inchworm;#B2EC5D;70;93;36
+independence;Independence;#4C516D;30;32;43
+india-green;India Green;#138808;7;53;3
+indian-red;Indian Red;#CD5C5C;80;36;36
+indian-yellow;Indian Yellow;#E3A857;89;66;34
+indigo;Indigo;#6F00FF;44;0;100
+indigo-dye;Indigo Dye;#091F92;4;12;57
+indigo-web;Indigo (Web);#4B0082;29;0;51
+international-klein-blue;International Klein Blue;#002FA7;0;18;65
+international-orange-aerospace;International Orange (Aerospace);#FF4F00;100;31;0
+international-orange-engineering;International Orange (Engineering);#BA160C;73;9;5
+international-orange-golden-gate-bridge;International Orange (Golden Gate Bridge);#C0362C;75;21;17
+iris;Iris;#5A4FCF;35;31;81
+irresistible;Irresistible;#B3446C;70;27;42
+isabelline;Isabelline;#F4F0EC;96;94;93
+islamic-green;Islamic Green;#009000;0;56;0
+italian-sky-blue;Italian Sky Blue;#B2FFFF;70;100;100
+ivory;Ivory;#FFFFF0;100;100;94
+jade;Jade;#00A86B;0;66;42
+japanese-carmine;Japanese Carmine;#9D2933;62;16;20
+japanese-indigo;Japanese Indigo;#264348;15;26;28
+japanese-violet;Japanese Violet;#5B3256;36;20;34
+jasmine;Jasmine;#F8DE7E;97;87;49
+jasper;Jasper;#D73B3E;84;23;24
+jazzberry-jam;Jazzberry Jam;#A50B5E;65;4;37
+jelly-bean;Jelly Bean;#DA614E;85;38;31
+jet;Jet;#343434;20;20;20
+jonquil;Jonquil;#F4CA16;96;79;9
+jordy-blue;Jordy Blue;#8AB9F1;54;73;95
+june-bud;June Bud;#BDDA57;74;85;34
+jungle-green;Jungle Green;#29AB87;16;67;53
+kelly-green;Kelly Green;#4CBB17;30;73;9
+kenyan-copper;Kenyan Copper;#7C1C05;49;11;2
+keppel;Keppel;#3AB09E;23;69;62
+jawad-chicken-color-html-css-khaki;Jawad/Chicken Color (HTML/CSS) (Khaki);#C3B091;76;69;57
+khaki-x11-light-khaki;Khaki (X11) (Light Khaki);#F0E68C;94;90;55
+kobe;Kobe;#882D17;53;18;9
+kobi;Kobi;#E79FC4;91;62;77
+kombu-green;Kombu Green;#354230;21;26;19
+ku-crimson;KU Crimson;#E8000D;91;0;5
+la-salle-green;La Salle Green;#087830;3;47;19
+languid-lavender;Languid Lavender;#D6CADD;84;79;87
+lapis-lazuli;Lapis Lazuli;#26619C;15;38;61
+laser-lemon;Laser Lemon;#FFFF66;100;100;40
+laurel-green;Laurel Green;#A9BA9D;66;73;62
+lava;Lava;#CF1020;81;6;13
+lavender-floral;Lavender (Floral);#B57EDC;71;49;86
+lavender-web;Lavender (Web);#E6E6FA;90;90;98
+lavender-blue;Lavender Blue;#CCCCFF;80;80;100
+lavender-blush;Lavender Blush;#FFF0F5;100;94;96
+lavender-gray;Lavender Gray;#C4C3D0;77;76;82
+lavender-indigo;Lavender Indigo;#9457EB;58;34;92
+lavender-magenta;Lavender Magenta;#EE82EE;93;51;93
+lavender-mist;Lavender Mist;#E6E6FA;90;90;98
+lavender-pink;Lavender Pink;#FBAED2;98;68;82
+lavender-purple;Lavender Purple;#967BB6;59;48;71
+lavender-rose;Lavender Rose;#FBA0E3;98;63;89
+lawn-green;Lawn Green;#7CFC00;49;99;0
+lemon;Lemon;#FFF700;100;97;0
+lemon-chiffon;Lemon Chiffon;#FFFACD;100;98;80
+lemon-curry;Lemon Curry;#CCA01D;80;63;11
+lemon-glacier;Lemon Glacier;#FDFF00;99;100;0
+lemon-lime;Lemon Lime;#E3FF00;89;100;0
+lemon-meringue;Lemon Meringue;#F6EABE;96;92;75
+lemon-yellow;Lemon Yellow;#FFF44F;100;96;31
+lenurple;Lenurple;#BA93D8;73;58;85
+licorice;Licorice;#1A1110;10;7;6
+liberty;Liberty;#545AA7;33;35;65
+light-apricot;Light Apricot;#FDD5B1;99;84;69
+light-blue;Light Blue;#ADD8E6;68;85;90
+light-brilliant-red;Light Brilliant Red;#fe2e2e;100;18;18
+light-brown;Light Brown;#B5651D;71;40;11
+light-carmine-pink;Light Carmine Pink;#E66771;90;40;44
+light-cobalt-blue;Light Cobalt Blue;#88ACE0;53;67;88
+light-coral;Light Coral;#F08080;94;50;50
+light-cornflower-blue;Light Cornflower Blue;#93CCEA;58;80;92
+light-crimson;Light Crimson;#F56991;96;41;57
+light-cyan;Light Cyan;#E0FFFF;88;100;100
+light-deep-pink;Light Deep Pink;#FF5CCD;100;36;80
+light-french-beige;Light French Beige;#C8AD7F;78;68;50
+light-fuchsia-pink;Light Fuchsia Pink;#F984EF;98;52;94
+light-goldenrod-yellow;Light Goldenrod Yellow;#FAFAD2;98;98;82
+light-gray;Light Gray;#D3D3D3;83;83;83
+light-grayish-magenta;Light Grayish Magenta;#CC99CC;80;60;80
+light-green;Light Green;#90EE90;56;93;56
+light-hot-pink;Light Hot Pink;#FFB3DE;100;70;87
+light-khaki;Light Khaki;#F0E68C;94;90;55
+light-medium-orchid;Light Medium Orchid;#D39BCB;83;61;80
+light-moss-green;Light Moss Green;#ADDFAD;68;87;68
+light-orchid;Light Orchid;#E6A8D7;90;66;84
+light-pastel-purple;Light Pastel Purple;#B19CD9;69;61;85
+light-pink;Light Pink;#FFB6C1;100;71;76
+light-red-ochre;Light Red Ochre;#E97451;91;45;32
+light-salmon;Light Salmon;#FFA07A;100;63;48
+light-salmon-pink;Light Salmon Pink;#FF9999;100;60;60
+light-sea-green;Light Sea Green;#20B2AA;13;70;67
+light-sky-blue;Light Sky Blue;#87CEFA;53;81;98
+light-slate-gray;Light Slate Gray;#778899;47;53;60
+light-steel-blue;Light Steel Blue;#B0C4DE;69;77;87
+light-taupe;Light Taupe;#B38B6D;70;55;43
+light-thulian-pink;Light Thulian Pink;#E68FAC;90;56;67
+light-yellow;Light Yellow;#FFFFE0;100;100;88
+lilac;Lilac;#C8A2C8;78;64;78
+lime-color-wheel;Lime (Color Wheel);#BFFF00;75;100;0
+lime-web-x11-green;Lime (Web) (X11 Green);#00FF00;0;100;0
+lime-green;Lime Green;#32CD32;20;80;20
+limerick;Limerick;#9DC209;62;76;4
+lincoln-green;Lincoln Green;#195905;10;35;2
+linen;Linen;#FAF0E6;98;94;90
+lion;Lion;#C19A6B;76;60;42
+liseran-purple;Liseran Purple;#DE6FA1;87;44;63
+little-boy-blue;Little Boy Blue;#6CA0DC;42;63;86
+liver;Liver;#674C47;40;30;28
+liver-dogs;Liver (Dogs);#B86D29;72;43;16
+liver-organ;Liver (Organ);#6C2E1F;42;18;12
+liver-chestnut;Liver Chestnut;#987456;60;45;34
+livid;Livid;#6699CC;40;60;80
+lumber;Lumber;#FFE4CD;100;89;80
+lust;Lust;#E62020;90;13;13
+magenta;Magenta;#FF00FF;100;0;100
+magenta-crayola;Magenta (Crayola);#FF55A3;100;33;64
+magenta-dye;Magenta (Dye);#CA1F7B;79;12;48
+magenta-pantone;Magenta (Pantone);#D0417E;82;25;49
+magenta-process;Magenta (Process);#FF0090;100;0;56
+magenta-haze;Magenta Haze;#9F4576;62;27;46
+magenta-pink;Magenta-Pink;#CC338B;80;20;55
+magic-mint;Magic Mint;#AAF0D1;67;94;82
+magnolia;Magnolia;#F8F4FF;97;96;100
+mahogany;Mahogany;#C04000;75;25;0
+maize;Maize;#FBEC5D;98;93;36
+majorelle-blue;Majorelle Blue;#6050DC;38;31;86
+malachite;Malachite;#0BDA51;4;85;32
+manatee;Manatee;#979AAA;59;60;67
+mango-tango;Mango Tango;#FF8243;100;51;26
+mantis;Mantis;#74C365;45;76;40
+mardi-gras;Mardi Gras;#880085;53;0;52
+marigold;Marigold;#EAA221;92;64;13
+maroon-crayola;Maroon (Crayola);#C32148;76;13;28
+maroon-html-css;Maroon (HTML/CSS);#800000;50;0;0
+maroon-x11;Maroon (X11);#B03060;69;19;38
+mauve;Mauve;#E0B0FF;88;69;100
+mauve-taupe;Mauve Taupe;#915F6D;57;37;43
+mauvelous;Mauvelous;#EF98AA;94;60;67
+may-green;May Green;#4C9141;30;57;25
+maya-blue;Maya Blue;#73C2FB;45;76;98
+meat-brown;Meat Brown;#E5B73B;90;72;23
+medium-aquamarine;Medium Aquamarine;#66DDAA;40;87;67
+medium-blue;Medium Blue;#0000CD;0;0;80
+medium-candy-apple-red;Medium Candy Apple Red;#E2062C;89;2;17
+medium-carmine;Medium Carmine;#AF4035;69;25;21
+medium-champagne;Medium Champagne;#F3E5AB;95;90;67
+medium-electric-blue;Medium Electric Blue;#035096;1;31;59
+medium-jungle-green;Medium Jungle Green;#1C352D;11;21;18
+medium-lavender-magenta;Medium Lavender Magenta;#DDA0DD;87;63;87
+medium-orchid;Medium Orchid;#BA55D3;73;33;83
+medium-persian-blue;Medium Persian Blue;#0067A5;0;40;65
+medium-purple;Medium Purple;#9370DB;58;44;86
+medium-red-violet;Medium Red-Violet;#BB3385;73;20;52
+medium-ruby;Medium Ruby;#AA4069;67;25;41
+medium-sea-green;Medium Sea Green;#3CB371;24;70;44
+medium-sky-blue;Medium Sky Blue;#80DAEB;50;85;92
+medium-slate-blue;Medium Slate Blue;#7B68EE;48;41;93
+medium-spring-bud;Medium Spring Bud;#C9DC87;79;86;53
+medium-spring-green;Medium Spring Green;#00FA9A;0;98;60
+medium-taupe;Medium Taupe;#674C47;40;30;28
+medium-turquoise;Medium Turquoise;#48D1CC;28;82;80
+medium-tuscan-red;Medium Tuscan Red;#79443B;47;27;23
+medium-vermilion;Medium Vermilion;#D9603B;85;38;23
+medium-violet-red;Medium Violet-Red;#C71585;78;8;52
+mellow-apricot;Mellow Apricot;#F8B878;97;72;47
+mellow-yellow;Mellow Yellow;#F8DE7E;97;87;49
+melon;Melon;#FDBCB4;99;74;71
+metallic-seaweed;Metallic Seaweed;#0A7E8C;4;49;55
+metallic-sunburst;Metallic Sunburst;#9C7C38;61;49;22
+mexican-pink;Mexican Pink;#E4007C;89;0;49
+midnight-blue;Midnight Blue;#191970;10;10;44
+midnight-green-eagle-green;Midnight Green (Eagle Green);#004953;0;29;33
+mikado-yellow;Mikado Yellow;#FFC40C;100;77;5
+mindaro;Mindaro;#E3F988;89;98;53
+ming;Ming;#36747D;21;45;49
+mint;Mint;#3EB489;24;71;54
+mint-cream;Mint Cream;#F5FFFA;96;100;98
+mint-green;Mint Green;#98FF98;60;100;60
+misty-rose;Misty Rose;#FFE4E1;100;89;88
+moccasin;Moccasin;#FAEBD7;98;92;84
+mode-beige;Mode Beige;#967117;59;44;9
+moonstone-blue;Moonstone Blue;#73A9C2;45;66;76
+mordant-red-19;Mordant Red 19;#AE0C00;68;5;0
+moss-green;Moss Green;#8A9A5B;54;60;36
+mountain-meadow;Mountain Meadow;#30BA8F;19;73;56
+mountbatten-pink;Mountbatten Pink;#997A8D;60;48;55
+msu-green;MSU Green;#18453B;9;27;23
+mughal-green;Mughal Green;#306030;19;38;19
+mulberry;Mulberry;#C54B8C;77;29;55
+mustard;Mustard;#FFDB58;100;86;35
+myrtle-green;Myrtle Green;#317873;19;47;45
+nadeshiko-pink;Nadeshiko Pink;#F6ADC6;96;68;78
+napier-green;Napier Green;#2A8000;16;50;0
+naples-yellow;Naples Yellow;#FADA5E;98;85;37
+navajo-white;Navajo White;#FFDEAD;100;87;68
+navy;Navy;#000080;0;0;50
+navy-purple;Navy Purple;#9457EB;58;34;92
+neon-carrot;Neon Carrot;#FFA343;100;64;26
+neon-fuchsia;Neon Fuchsia;#FE4164;100;25;39
+neon-green;Neon Green;#39FF14;22;100;8
+new-car;New Car;#214FC6;13;31;78
+new-york-pink;New York Pink;#D7837F;84;51;50
+non-photo-blue;Non-Photo Blue;#A4DDED;64;87;93
+north-texas-green;North Texas Green;#059033;2;56;20
+nyanza;Nyanza;#E9FFDB;91;100;86
+ocean-boat-blue;Ocean Boat Blue;#0077BE;0;47;75
+ochre;Ochre;#CC7722;80;47;13
+office-green;Office Green;#008000;0;50;0
+old-burgundy;Old Burgundy;#43302E;26;19;18
+old-gold;Old Gold;#CFB53B;81;71;23
+old-heliotrope;Old Heliotrope;#563C5C;34;24;36
+old-lace;Old Lace;#FDF5E6;99;96;90
+old-lavender;Old Lavender;#796878;47;41;47
+old-mauve;Old Mauve;#673147;40;19;28
+old-moss-green;Old Moss Green;#867E36;53;49;21
+old-rose;Old Rose;#C08081;75;50;51
+old-silver;Old Silver;#848482;52;52;51
+olive;Olive;#808000;50;50;0
+olive-drab-#3;Olive Drab (#3);#6B8E23;42;56;14
+olive-drab-#7;Olive Drab #7;#3C341F;24;20;12
+olivine;Olivine;#9AB973;60;73;45
+onyx;Onyx;#353839;21;22;22
+opera-mauve;Opera Mauve;#B784A7;72;52;65
+orange-color-wheel;Orange (Color Wheel);#FF7F00;100;50;0
+orange-crayola;Orange (Crayola);#FF7538;100;46;22
+orange-pantone;Orange (Pantone);#FF5800;100;35;0
+orange-ryb;Orange (RYB);#FB9902;98;60;1
+orange-web;Orange (Web);#FFA500;100;65;0
+orange-peel;Orange Peel;#FF9F00;100;62;0
+orange-red;Orange-Red;#FF4500;100;27;0
+orange-yellow;Orange-Yellow;#F8D568;97;84;41
+orchid;Orchid;#DA70D6;85;44;84
+orchid-pink;Orchid Pink;#F2BDCD;95;74;80
+orioles-orange;Orioles Orange;#FB4F14;98;31;8
+otter-brown;Otter Brown;#654321;40;26;13
+outer-space;Outer Space;#414A4C;25;29;30
+outrageous-orange;Outrageous Orange;#FF6E4A;100;43;29
+oxford-blue;Oxford Blue;#002147;0;13;28
+ou-crimson-red;OU Crimson Red;#990000;60;0;0
+pakistan-green;Pakistan Green;#006600;0;40;0
+palatinate-blue;Palatinate Blue;#273BE2;15;23;89
+palatinate-purple;Palatinate Purple;#682860;41;16;38
+pale-aqua;Pale Aqua;#BCD4E6;74;83;90
+pale-blue;Pale Blue;#AFEEEE;69;93;93
+pale-brown;Pale Brown;#987654;60;46;33
+pale-carmine;Pale Carmine;#AF4035;69;25;21
+pale-cerulean;Pale Cerulean;#9BC4E2;61;77;89
+pale-chestnut;Pale Chestnut;#DDADAF;87;68;69
+pale-copper;Pale Copper;#DA8A67;85;54;40
+pale-cornflower-blue;Pale Cornflower Blue;#ABCDEF;67;80;94
+pale-cyan;Pale Cyan;#87D3F8;53;83;97
+pale-gold;Pale Gold;#E6BE8A;90;75;54
+pale-goldenrod;Pale Goldenrod;#EEE8AA;93;91;67
+pale-green;Pale Green;#98FB98;60;98;60
+pale-lavender;Pale Lavender;#DCD0FF;86;82;100
+pale-magenta;Pale Magenta;#F984E5;98;52;90
+pale-magenta-pink;Pale Magenta-Pink;#ff99cc;100;60;80
+pale-pink;Pale Pink;#FADADD;98;85;87
+pale-plum;Pale Plum;#DDA0DD;87;63;87
+pale-red-violet;Pale Red-Violet;#DB7093;86;44;58
+pale-robin-egg-blue;Pale Robin Egg Blue;#96DED1;59;87;82
+pale-silver;Pale Silver;#C9C0BB;79;75;73
+pale-spring-bud;Pale Spring Bud;#ECEBBD;93;92;74
+pale-taupe;Pale Taupe;#BC987E;74;60;49
+pale-turquoise;Pale Turquoise;#AFEEEE;69;93;93
+pale-violet;Pale Violet;#CC99FF;80;60;100
+pale-violet-red;Pale Violet-Red;#DB7093;86;44;58
+pansy-purple;Pansy Purple;#78184A;47;9;29
+paolo-veronese-green;Paolo Veronese Green;#009B7D;0;61;49
+papaya-whip;Papaya Whip;#FFEFD5;100;94;84
+paradise-pink;Paradise Pink;#E63E62;90;24;38
+paris-green;Paris Green;#50C878;31;78;47
+pastel-blue;Pastel Blue;#AEC6CF;68;78;81
+pastel-brown;Pastel Brown;#836953;51;41;33
+pastel-gray;Pastel Gray;#CFCFC4;81;81;77
+pastel-green;Pastel Green;#77DD77;47;87;47
+pastel-magenta;Pastel Magenta;#F49AC2;96;60;76
+pastel-orange;Pastel Orange;#FFB347;100;70;28
+pastel-pink;Pastel Pink;#DEA5A4;87;65;64
+pastel-purple;Pastel Purple;#B39EB5;70;62;71
+pastel-red;Pastel Red;#FF6961;100;41;38
+pastel-violet;Pastel Violet;#CB99C9;80;60;79
+pastel-yellow;Pastel Yellow;#FDFD96;99;99;59
+patriarch;Patriarch;#800080;50;0;50
+paynes-grey;Payne's Grey;#536878;33;41;47
+peach;Peach;#FFE5B4;100;90;71
+peach-orange;Peach-Orange;#FFCC99;100;80;60
+peach-puff;Peach Puff;#FFDAB9;100;85;73
+peach-yellow;Peach-Yellow;#FADFAD;98;87;68
+pear;Pear;#D1E231;82;89;19
+pearl;Pearl;#EAE0C8;92;88;78
+pearl-aqua;Pearl Aqua;#88D8C0;53;85;75
+pearly-purple;Pearly Purple;#B768A2;72;41;64
+peridot;Peridot;#E6E200;90;89;0
+periwinkle;Periwinkle;#CCCCFF;80;80;100
+persian-blue;Persian Blue;#1C39BB;11;22;73
+persian-green;Persian Green;#00A693;0;65;58
+persian-indigo;Persian Indigo;#32127A;20;7;48
+persian-orange;Persian Orange;#D99058;85;56;35
+persian-pink;Persian Pink;#F77FBE;97;50;75
+persian-plum;Persian Plum;#701C1C;44;11;11
+persian-red;Persian Red;#CC3333;80;20;20
+persian-rose;Persian Rose;#FE28A2;100;16;64
+persimmon;Persimmon;#EC5800;93;35;0
+peru;Peru;#CD853F;80;52;25
+phlox;Phlox;#DF00FF;87;0;100
+phthalo-blue;Phthalo Blue;#000F89;0;6;54
+phthalo-green;Phthalo Green;#123524;7;21;14
+picton-blue;Picton Blue;#45B1E8;27;69;91
+pictorial-carmine;Pictorial Carmine;#C30B4E;76;4;31
+piggy-pink;Piggy Pink;#FDDDE6;99;87;90
+pine-green;Pine Green;#01796F;0;47;44
+pineapple;Pineapple;#563C5C;34;24;5
+pink;Pink;#FFC0CB;100;75;80
+pink-pantone;Pink (Pantone);#D74894;84;28;58
+pink-lace;Pink Lace;#FFDDF4;100;87;96
+pink-lavender;Pink Lavender;#D8B2D1;85;70;82
+pink-orange;Pink-Orange;#FF9966;100;60;40
+pink-pearl;Pink Pearl;#E7ACCF;91;67;81
+pink-raspberry;Pink Raspberry;#980036;60;0;21
+pink-sherbet;Pink Sherbet;#F78FA7;97;56;65
+pistachio;Pistachio;#93C572;58;77;45
+platinum;Platinum;#E5E4E2;90;89;89
+plum;Plum;#8E4585;56;27;52
+plum-web;Plum (Web);#DDA0DD;87;63;87
+pomp-and-power;Pomp And Power;#86608E;53;38;56
+popstar;Popstar;#BE4F62;75;31;38
+portland-orange;Portland Orange;#FF5A36;100;35;21
+powder-blue;Powder Blue;#B0E0E6;69;88;90
+princeton-orange;Princeton Orange;#F58025;96;50;15
+prune;Prune;#701C1C;44;11;11
+prussian-blue;Prussian Blue;#003153;0;19;33
+psychedelic-purple;Psychedelic Purple;#DF00FF;87;0;100
+puce;Puce;#CC8899;80;53;60
+puce-red;Puce Red;#722F37;45;18;22
+pullman-brown-ups-brown;Pullman Brown (UPS Brown);#644117;39;25;9
+pullman-green;Pullman Green;#3B331C;23;20;11
+pumpkin;Pumpkin;#FF7518;100;46;9
+purple-html;Purple (HTML);#800080;50;0;50
+purple-munsell;Purple (Munsell);#9F00C5;62;0;77
+purple-x11;Purple (X11);#A020F0;63;13;94
+purple-heart;Purple Heart;#69359C;41;21;61
+purple-mountain-majesty;Purple Mountain Majesty;#9678B6;59;47;71
+purple-navy;Purple Navy;#4E5180;31;32;50
+purple-pizzazz;Purple Pizzazz;#FE4EDA;100;31;85
+purple-taupe;Purple Taupe;#50404D;31;25;30
+purpureus;Purpureus;#9A4EAE;60;31;68
+quartz;Quartz;#51484F;32;28;31
+queen-blue;Queen Blue;#436B95;26;42;58
+queen-pink;Queen Pink;#E8CCD7;91;80;84
+quinacridone-magenta;Quinacridone Magenta;#8E3A59;56;23;35
+rackley;Rackley;#5D8AA8;36;54;66
+radical-red;Radical Red;#FF355E;100;21;37
+rajah;Rajah;#FBAB60;98;67;38
+raspberry;Raspberry;#E30B5D;89;4;36
+raspberry-glace;Raspberry Glace;#915F6D;57;37;43
+raspberry-pink;Raspberry Pink;#E25098;89;31;60
+raspberry-rose;Raspberry Rose;#B3446C;70;27;42
+raw-umber;Raw Umber;#826644;51;40;27
+razzle-dazzle-rose;Razzle Dazzle Rose;#FF33CC;100;20;80
+razzmatazz;Razzmatazz;#E3256B;89;15;42
+razzmic-berry;Razzmic Berry;#8D4E85;55;31;52
+rebecca-purple;Rebecca Purple;#663399;40;20;60
+red;Red;#FF0000;100;0;0
+red-crayola;Red (Crayola);#EE204D;93;13;30
+red-munsell;Red (Munsell);#F2003C;95;0;24
+red-ncs;Red (NCS);#C40233;77;1;20
+red-pantone;Red (Pantone);#ED2939;93;16;22
+red-pigment;Red (Pigment);#ED1C24;93;11;14
+red-ryb;Red (RYB);#FE2712;100;15;7
+red-brown;Red-Brown;#A52A2A;65;16;16
+red-devil;Red Devil;#860111;53;0;7
+red-orange;Red-Orange;#FF5349;100;33;29
+red-purple;Red-Purple;#E40078;89;0;47
+red-violet;Red-Violet;#C71585;78;8;52
+redwood;Redwood;#A45A52;64;35;32
+regalia;Regalia;#522D80;32;18;50
+registration-black;Registration Black;#000000;0;0;0
+resolution-blue;Resolution Blue;#002387;0;14;53
+rhythm;Rhythm;#777696;47;46;59
+rich-black;Rich Black;#004040;0;25;25
+rich-black-fogra-29;Rich Black (FOGRA29);#010B13;0;4;7
+rich-black-fogra-39;Rich Black (FOGRA39);#010203;0;1;1
+rich-brilliant-lavender;Rich Brilliant Lavender;#F1A7FE;95;65;100
+rich-carmine;Rich Carmine;#D70040;84;0;25
+rich-electric-blue;Rich Electric Blue;#0892D0;3;57;82
+rich-lavender;Rich Lavender;#A76BCF;65;42;81
+rich-lilac;Rich Lilac;#B666D2;71;40;82
+rich-maroon;Rich Maroon;#B03060;69;19;38
+rifle-green;Rifle Green;#444C38;27;30;22
+roast-coffee;Roast Coffee;#704241;44;26;25
+robin-egg-blue;Robin Egg Blue;#00CCCC;0;80;80
+rocket-metallic;Rocket Metallic;#8A7F80;54;50;50
+roman-silver;Roman Silver;#838996;51;54;59
+rose;Rose;#FF007F;100;0;50
+rose-bonbon;Rose Bonbon;#F9429E;98;26;62
+rose-ebony;Rose Ebony;#674846;40;28;27
+rose-gold;Rose Gold;#B76E79;72;43;47
+rose-madder;Rose Madder;#E32636;89;15;21
+rose-pink;Rose Pink;#FF66CC;100;40;80
+rose-quartz;Rose Quartz;#AA98A9;67;60;66
+rose-red;Rose Red;#C21E56;76;12;34
+rose-taupe;Rose Taupe;#905D5D;56;36;36
+rose-vale;Rose Vale;#AB4E52;67;31;32
+rosewood;Rosewood;#65000B;40;0;4
+rosso-corsa;Rosso Corsa;#D40000;83;0;0
+rosy-brown;Rosy Brown;#BC8F8F;74;56;56
+royal-azure;Royal Azure;#0038A8;0;22;66
+royal-blue;Royal Blue;#002366;0;14;40
+royal-fuchsia;Royal Fuchsia;#CA2C92;79;17;57
+royal-purple;Royal Purple;#7851A9;47;32;66
+royal-yellow;Royal Yellow;#FADA5E;98;85;37
+ruber;Ruber;#CE4676;81;27;46
+rubine-red;Rubine Red;#D10056;82;0;34
+ruby;Ruby;#E0115F;88;7;37
+ruby-red;Ruby Red;#9B111E;61;7;12
+ruddy;Ruddy;#FF0028;100;0;16
+ruddy-brown;Ruddy Brown;#BB6528;73;40;16
+ruddy-pink;Ruddy Pink;#E18E96;88;56;59
+rufous;Rufous;#A81C07;66;11;3
+russet;Russet;#80461B;50;27;11
+russian-green;Russian Green;#679267;40;57;40
+russian-violet;Russian Violet;#32174D;20;9;30
+rust;Rust;#B7410E;72;25;5
+rusty-red;Rusty Red;#DA2C43;85;17;26
+sacramento-state-green;Sacramento State Green;#00563F;0;34;25
+saddle-brown;Saddle Brown;#8B4513;55;27;7
+safety-orange;Safety Orange;#FF7800;100;47;0
+safety-orange-blaze-orange;Safety Orange (Blaze Orange);#FF6700;100;40;0
+safety-yellow;Safety Yellow;#EED202;93;82;1
+saffron;Saffron;#F4C430;96;77;19
+sage;Sage;#BCB88A;74;72;54
+st-patricks-blue;St. Patrick's Blue;#23297A;14;16;48
+salmon;Salmon;#FA8072;98;50;45
+salmon-pink;Salmon Pink;#FF91A4;100;57;64
+sand;Sand;#C2B280;76;70;50
+sand-dune;Sand Dune;#967117;59;44;9
+sandstorm;Sandstorm;#ECD540;93;84;25
+sandy-brown;Sandy Brown;#F4A460;96;64;38
+sandy-taupe;Sandy Taupe;#967117;59;44;9
+sangria;Sangria;#92000A;57;0;4
+sap-green;Sap Green;#507D2A;31;49;16
+sapphire;Sapphire;#0F52BA;6;32;73
+sapphire-blue;Sapphire Blue;#0067A5;0;40;65
+satin-sheen-gold;Satin Sheen Gold;#CBA135;80;63;21
+scarlet;Scarlet;#FF2400;100;14;0
+schauss-pink;Schauss Pink;#FF91AF;100;57;69
+school-bus-yellow;School Bus Yellow;#FFD800;100;85;0
+screamin-green;Screamin' Green;#76FF7A;46;100;48
+sea-blue;Sea Blue;#006994;0;41;58
+sea-green;Sea Green;#2E8B57;18;55;34
+seal-brown;Seal Brown;#59260B;20;8;8
+seashell;Seashell;#FFF5EE;100;96;93
+selective-yellow;Selective Yellow;#FFBA00;100;73;0
+sepia;Sepia;#704214;44;26;8
+shadow;Shadow;#8A795D;54;47;36
+shadow-blue;Shadow Blue;#778BA5;47;55;65
+shampoo;Shampoo;#FFCFF1;100;81;95
+shamrock-green;Shamrock Green;#009E60;0;62;38
+sheen-green;Sheen Green;#8FD400;56;83;0
+shimmering-blush;Shimmering Blush;#D98695;85;53;58
+shocking-pink;Shocking Pink;#FC0FC0;99;6;75
+shocking-pink-crayola;Shocking Pink (Crayola);#FF6FFF;100;44;100
+sienna;Sienna;#882D17;53;18;9
+silver;Silver;#C0C0C0;75;75;75
+silver-chalice;Silver Chalice;#ACACAC;67;67;67
+silver-lake-blue;Silver Lake Blue;#5D89BA;36;54;73
+silver-pink;Silver Pink;#C4AEAD;77;68;68
+silver-sand;Silver Sand;#BFC1C2;75;76;76
+sinopia;Sinopia;#CB410B;80;25;4
+skobeloff;Skobeloff;#007474;0;45;45
+sky-blue;Sky Blue;#87CEEB;53;81;92
+sky-magenta;Sky Magenta;#CF71AF;81;44;69
+slate-blue;Slate Blue;#6A5ACD;42;35;80
+slate-gray;Slate Gray;#708090;44;50;56
+smalt-dark-powder-blue;Smalt (Dark Powder Blue);#003399;0;20;60
+smitten;Smitten;#C84186;78;25;53
+smoke;Smoke;#738276;45;51;46
+smoky-black;Smoky Black;#100C08;6;5;3
+smoky-topaz;Smoky Topaz;#933D41;58;24;25
+snow;Snow;#FFFAFA;100;98;98
+soap;Soap;#CEC8EF;81;78;94
+solid-pink;Solid Pink;#893843;54;22;26
+sonic-silver;Sonic Silver;#757575;46;46;46
+spartan-crimson;Spartan Crimson;#9E1316;62;7;9
+space-cadet;Space Cadet;#1D2951;11;16;32
+spanish-bistre;Spanish Bistre;#807532;50;46;20
+spanish-blue;Spanish Blue;#0070B8;0;44;72
+spanish-carmine;Spanish Carmine;#D10047;82;0;28
+spanish-crimson;Spanish Crimson;#E51A4C;90;10;30
+spanish-gray;Spanish Gray;#989898;60;60;60
+spanish-green;Spanish Green;#009150;0;57;31
+spanish-orange;Spanish Orange;#E86100;91;38;0
+spanish-pink;Spanish Pink;#F7BFBE;97;75;75
+spanish-red;Spanish Red;#E60026;90;0;15
+spanish-sky-blue;Spanish Sky Blue;#00FFFF;0;100;100
+spanish-violet;Spanish Violet;#4C2882;30;16;51
+spanish-viridian;Spanish Viridian;#007F5C;0;50;36
+spicy-mix;Spicy Mix;#8B5f4D;55;37;30
+spiro-disco-ball;Spiro Disco Ball;#0FC0FC;6;75;99
+spring-bud;Spring Bud;#A7FC00;65;99;0
+spring-green;Spring Green;#00FF7F;0;100;50
+star-command-blue;Star Command Blue;#007BB8;0;48;72
+steel-blue;Steel Blue;#4682B4;27;51;71
+steel-pink;Steel Pink;#CC33CC;80;20;80
+stil-de-grain-yellow;Stil De Grain Yellow;#FADA5E;98;85;37
+stizza;Stizza;#990000;60;0;0
+stormcloud;Stormcloud;#4F666A;31;40;42
+straw;Straw;#E4D96F;89;85;44
+strawberry;Strawberry;#FC5A8D;99;35;55
+sunglow;Sunglow;#FFCC33;100;80;20
+sunray;Sunray;#E3AB57;89;67;34
+sunset;Sunset;#FAD6A5;98;84;65
+sunset-orange;Sunset Orange;#FD5E53;99;37;33
+super-pink;Super Pink;#CF6BA9;81;42;66
+tan;Tan;#D2B48C;82;71;55
+tangelo;Tangelo;#F94D00;98;30;0
+tangerine;Tangerine;#F28500;95;52;0
+tangerine-yellow;Tangerine Yellow;#FFCC00;100;80;0
+tango-pink;Tango Pink;#E4717A;89;44;48
+taupe;Taupe;#483C32;28;24;20
+taupe-gray;Taupe Gray;#8B8589;55;52;54
+tea-green;Tea Green;#D0F0C0;82;94;75
+tea-rose;Tea Rose;#F88379;97;51;47
+teal;Teal;#008080;0;50;50
+teal-blue;Teal Blue;#367588;21;46;53
+teal-deer;Teal Deer;#99E6B3;60;90;70
+teal-green;Teal Green;#00827F;0;51;50
+telemagenta;Telemagenta;#CF3476;81;20;46
+tenné;Tenné;#CD5700;80;34;0
+terra-cotta;Terra Cotta;#E2725B;89;45;36
+thistle;Thistle;#D8BFD8;85;75;85
+thulian-pink;Thulian Pink;#DE6FA1;87;44;63
+tickle-me-pink;Tickle Me Pink;#FC89AC;99;54;67
+tiffany-blue;Tiffany Blue;#0ABAB5;4;73;71
+tigers-eye;Tiger\'s Eye;#E08D3C;88;55;24
+timberwolf;Timberwolf;#DBD7D2;86;84;82
+titanium-yellow;Titanium Yellow;#EEE600;93;90;0
+tomato;Tomato;#FF6347;100;39;28
+toolbox;Toolbox;#746CC0;45;42;75
+topaz;Topaz;#FFC87C;100;78;49
+tractor-red;Tractor Red;#FD0E35;99;5;21
+trolley-grey;Trolley Grey;#808080;50;50;50
+tropical-rain-forest;Tropical Rain Forest;#00755E;0;46;37
+true-blue;True Blue;#0073CF;0;45;81
+tufts-blue;Tufts Blue;#417DC1;25;49;76
+tulip;Tulip;#FF878D;100;53;55
+tumbleweed;Tumbleweed;#DEAA88;87;67;53
+turkish-rose;Turkish Rose;#B57281;71;45;51
+turquoise;Turquoise;#40E0D0;25;88;82
+turquoise-blue;Turquoise Blue;#00FFEF;0;100;94
+turquoise-green;Turquoise Green;#A0D6B4;63;84;71
+tuscan;Tuscan;#FAD6A5;98;84;65
+tuscan-brown;Tuscan Brown;#6F4E37;44;31;22
+tuscan-red;Tuscan Red;#7C4848;49;28;28
+tuscan-tan;Tuscan Tan;#A67B5B;65;48;36
+tuscany;Tuscany;#C09999;75;60;60
+twilight-lavender;Twilight Lavender;#8A496B;54;29;42
+tyrian-purple;Tyrian Purple;#66023C;40;1;24
+ua-blue;UA Blue;#0033AA;0;20;67
+ua-red;UA Red;#D9004C;85;0;30
+ube;Ube;#8878C3;53;47;76
+ucla-blue;UCLA Blue;#536895;33;41;58
+ucla-gold;UCLA Gold;#FFB300;100;70;0
+ufo-green;UFO Green;#3CD070;24;82;44
+ultramarine;Ultramarine;#3F00FF;7;4;56
+ultramarine-blue;Ultramarine Blue;#4166F5;25;40;96
+ultra-pink;Ultra Pink;#FF6FFF;100;44;100
+ultra-red;Ultra Red;#FC6C85;99;42;52
+umber;Umber;#635147;39;32;28
+unbleached-silk;Unbleached Silk;#FFDDCA;100;87;79
+united-nations-blue;United Nations Blue;#5B92E5;36;57;90
+university-of-california-gold;University Of California Gold;#B78727;72;53;15
+unmellow-yellow;Unmellow Yellow;#FFFF66;100;100;40
+up-forest-green;UP Forest Green;#014421;0;27;13
+up-maroon;UP Maroon;#7B1113;48;7;7
+upsdell-red;Upsdell Red;#AE2029;68;13;16
+urobilin;Urobilin;#E1AD21;88;68;13
+usafa-blue;USAFA Blue;#004F98;0;31;60
+usc-cardinal;USC Cardinal;#990000;60;0;0
+usc-gold;USC Gold;#FFCC00;100;80;0
+university-of-tennessee-orange;University Of Tennessee Orange;#F77F00;97;50;0
+utah-crimson;Utah Crimson;#D3003F;83;0;25
+vanilla;Vanilla;#F3E5AB;95;90;67
+vanilla-ice;Vanilla Ice;#F38FA9;95;56;66
+vegas-gold;Vegas Gold;#C5B358;77;70;35
+venetian-red;Venetian Red;#C80815;78;3;8
+verdigris;Verdigris;#43B3AE;26;70;68
+vermilion;Vermilion;#D9381E;85;22;12
+veronica;Veronica;#A020F0;63;13;94
+very-light-azure;Very Light Azure;#74BBFB;45;73;98
+very-light-blue;Very Light Blue;#6666FF;40;40;100
+very-light-malachite-green;Very Light Malachite Green;#64E986;39;91;53
+very-light-tangelo;Very Light Tangelo;#FFB077;100;69;47
+very-pale-orange;Very Pale Orange;#FFDFBF;100;87;75
+very-pale-yellow;Very Pale Yellow;#FFFFBF;100;100;75
+violet;Violet;#8F00FF;56;0;100
+violet-color-wheel;Violet (Color Wheel);#7F00FF;50;0;100
+violet-ryb;Violet (RYB);#8601AF;53;0;69
+violet-web;Violet (Web);#EE82EE;93;51;93
+violet-blue;Violet-Blue;#324AB2;20;29;70
+violet-red;Violet-Red;#F75394;97;33;58
+viridian;Viridian;#40826D;25;51;43
+viridian-green;Viridian Green;#009698;0;59;60
+vista-blue;Vista Blue;#7C9ED9;49;62;85
+vivid-amber;Vivid Amber;#cc9900;80;60;0
+vivid-auburn;Vivid Auburn;#922724;57;15;14
+vivid-burgundy;Vivid Burgundy;#9F1D35;62;11;21
+vivid-cerise;Vivid Cerise;#DA1D81;85;11;51
+vivid-cerulean;Vivid Cerulean;#00aaee;0;67;93
+vivid-crimson;Vivid Crimson;#CC0033;80;0;20
+vivid-gamboge;Vivid Gamboge;#FF9900;100;60;0
+vivid-lime-green;Vivid Lime Green;#a6d608;65;84;3
+vivid-malachite;Vivid Malachite;#00cc33;0;80;20
+vivid-mulberry;Vivid Mulberry;#B80CE3;72;5;89
+vivid-orange;Vivid Orange;#FF5F00;100;37;0
+vivid-orange-peel;Vivid Orange Peel;#FFA000;100;63;0
+vivid-orchid;Vivid Orchid;#CC00FF;80;0;100
+vivid-raspberry;Vivid Raspberry;#FF006C;100;0;42
+vivid-red;Vivid Red;#F70D1A;97;5;10
+vivid-red-tangelo;Vivid Red-Tangelo;#DF6124;87;38;14
+vivid-sky-blue;Vivid Sky Blue;#00CCFF;0;80;100
+vivid-tangelo;Vivid Tangelo;#F07427;94;45;15
+vivid-tangerine;Vivid Tangerine;#FFA089;100;63;54
+vivid-vermilion;Vivid Vermilion;#e56024;90;38;14
+vivid-violet;Vivid Violet;#9F00FF;62;0;100
+vivid-yellow;Vivid Yellow;#FFE302;100;89;1
+volt;Volt;#CEFF00;80;100;0
+warm-black;Warm Black;#004242;0;26;26
+waterspout;Waterspout;#A4F4F9;64;96;98
+wenge;Wenge;#645452;39;33;32
+wheat;Wheat;#F5DEB3;96;87;70
+white;White;#FFFFFF;100;100;100
+white-smoke;White Smoke;#F5F5F5;96;96;96
+wild-blue-yonder;Wild Blue Yonder;#A2ADD0;64;68;82
+wild-orchid;Wild Orchid;#D470A2;83;44;64
+wild-strawberry;Wild Strawberry;#FF43A4;100;26;64
+wild-watermelon;Wild Watermelon;#FC6C85;99;42;52
+willpower-orange;Willpower Orange;#FD5800;99;35;0
+windsor-tan;Windsor Tan;#A75502;65;33;1
+wine;Wine;#722F37;45;18;22
+wine-dregs;Wine Dregs;#673147;40;19;28
+wisteria;Wisteria;#C9A0DC;79;63;86
+wood-brown;Wood Brown;#C19A6B;76;60;42
+xanadu;Xanadu;#738678;45;53;47
+yale-blue;Yale Blue;#0F4D92;6;30;57
+yankees-blue;Yankees Blue;#1C2841;11;16;25
+yellow;Yellow;#FFFF00;100;100;0
+yellow-crayola;Yellow (Crayola);#FCE883;99;91;51
+yellow-munsell;Yellow (Munsell);#EFCC00;94;80;0
+yellow-ncs;Yellow (NCS);#FFD300;100;83;0
+yellow-pantone;Yellow (Pantone);#FEDF00;100;87;0
+yellow-process;Yellow (Process);#FFEF00;100;94;0
+yellow-ryb;Yellow (RYB);#FEFE33;100;100;20
+yellow-green;Yellow-Green;#9ACD32;60;80;20
+yellow-orange;Yellow Orange;#FFAE42;100;68;26
+yellow-rose;Yellow Rose;#FFF000;100;94;0
+zaffre;Zaffre;#0014A8;0;8;66
+zinnwaldite-brown;Zinnwaldite Brown;#2C1608;17;9;3
+zomp;Zomp;#39A78E;22;65;56

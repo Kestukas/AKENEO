@@ -1,0 +1,4 @@
+pim_reference_data:
+    brand:
+        class:  Acme\Bundle\CustomBundle\Entity\Brand
+        type: simple

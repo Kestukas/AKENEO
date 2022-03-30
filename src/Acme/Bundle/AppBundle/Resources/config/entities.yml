@@ -1,0 +1,4 @@
+parameters:
+    acme_app.entity.color.class:            Acme\Bundle\AppBundle\Entity\Color
+    acme_app.entity.fabric.class:           Acme\Bundle\AppBundle\Entity\Fabric
+    acme_app.entity.supplychaininfo.class:           Acme\Bundle\AppBundle\Entity\Supplychaininfo

@@ -1,2 +1,10 @@
 parameters:
     pim_ce_dev_src_folder_location: '%kernel.project_dir%/vendor/akeneo/pim-community-dev'
+
+services:
+    my.listener:
+        class: Acme\Bundle\AppBundle\EventListener\ProductModificationListener
+        arguments:
+            - '@swiftmailer.mailer'
+        tags:
+            - { name: kernel.event_listener, event: akeneo.storage.post_save, method: onPostSave }
